@@ -1,5 +1,5 @@
 # belajar-kolaborasi
 
-edit tipis tipis aja
+Edit tipis tipis aja
 
-<p>nah disuruh bikin</p>
+<p>Nah disuruh bikin</p>
